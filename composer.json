@@ -1,5 +1,5 @@
 {
-    "name": "sjnlabs2013/yii2-dropzone",
+    "name": "sjnlabs2013/dropzone",
     "description": "DropzoneJs Extention for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","dropzone","upload"],
